@@ -7,7 +7,7 @@
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
+🎓 Eu estudei Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
 
 🎓 Faço Engenharia da Computação [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
 
