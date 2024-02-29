@@ -26,9 +26,10 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueCast&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiqueCast&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiqueCast&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
@@ -68,3 +69,4 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 - ***Estudante de Engenharia da Computação em busca de oportunidades para aplicar e aprimorar meus conhecimentos na área. Apaixonado por tecnologia e programação, estou focado em adquirir experiência prática e desenvolver habilidades em projetos desafiadores. Sou um aprendiz rápido, dedicado e comprometido em buscar soluções inovadoras. Busco oportunidades de estágio ou trainee onde possa contribuir para o crescimento da empresa e ao mesmo tempo aprender e crescer profissionalmente. Habilidades técnicas incluem programação em linguagens como Python e JavaScript, além de conhecimentos em redes e desenvolvimento de software. Estou animado para embarcar em uma carreira na engenharia da computação e estou aberto a desafios que me permitam aprender e crescer.***
 </div>
+
