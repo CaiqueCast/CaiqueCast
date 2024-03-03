@@ -69,5 +69,3 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 - ***Estudante de Engenharia da Computação em busca de oportunidades para aplicar e aprimorar meus conhecimentos na área. Apaixonado por tecnologia e programação, estou focado em adquirir experiência prática e desenvolver habilidades em projetos desafiadores. Sou um aprendiz rápido, dedicado e comprometido em buscar soluções inovadoras. Busco oportunidades de estágio ou trainee onde possa contribuir para o crescimento da empresa e ao mesmo tempo aprender e crescer profissionalmente. Habilidades técnicas incluem programação em linguagens como Python e JavaScript, além de conhecimentos em redes e desenvolvimento de software. Estou animado para embarcar em uma carreira na engenharia da computação e estou aberto a desafios que me permitam aprender e crescer.***
 </div>
-
-![snake animation](https://github.com/CaiqueCast/CaiqueCast/blob/output/github-contribution-grid-snake2.svg)
