@@ -5,23 +5,11 @@
 💻 Eu sou um desenvolvedor Back-End.
   <img align="right" alt="minha imagem" width="250" src="https://i.imgur.com/8MupZHY.gif" width="350px" />
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
 🎓 Eu estudei Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
 
 🎓 Faço Engenharia da Computação [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
 
 ## **Tecnologias e Ferramentas 🛠**
-
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-
-<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
-
-<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
 
 ###
 
