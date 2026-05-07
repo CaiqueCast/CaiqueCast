@@ -13,7 +13,8 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiqueCast&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=1" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiqueCast&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=1" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaiqueCast&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -22,6 +23,8 @@
 
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -35,6 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="HTML"  />
+  <img width="12" />
 </div>
 
 ###
