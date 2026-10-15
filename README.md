@@ -2,12 +2,15 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End.
-  <img align="right" alt="minha imagem" width="250" src="https://i.imgur.com/8MupZHY.gif" width="350px" />
+💻 Sou desenvolvedor de software, com foco em Back-End e atuação com Java.
 
-🎓 Eu estudei Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
+<img align="right" alt="minha imagem" width="250" src="https://i.imgur.com/8MupZHY.gif" />
 
-🎓 Faço Engenharia da Computação [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
+☕ Trabalho com Java no desenvolvimento e na manutenção de aplicações na [HLH – Serviços e Tecnologia](https://hlh.com.br/site2/).
+
+🎓 Estudei Desenvolvimento de Software com Foco em Back-End pela [Cubos Academy](https://cubos.academy/).
+
+🎓 Curso Engenharia da Computação pela [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
 
 ## **Tecnologias e Ferramentas 🛠**
 
@@ -62,5 +65,6 @@
 
 ### <i>Um pouco mais sobre mim</i> 🚀
 
-- ***Estudante de Engenharia da Computação em busca de oportunidades para aplicar e aprimorar meus conhecimentos na área. Apaixonado por tecnologia e programação, estou focado em adquirir experiência prática e desenvolver habilidades em projetos desafiadores. Sou um aprendiz rápido, dedicado e comprometido em buscar soluções inovadoras. Busco oportunidades de estágio ou trainee onde possa contribuir para o crescimento da empresa e ao mesmo tempo aprender e crescer profissionalmente. Habilidades técnicas incluem programação em linguagens como Python e JavaScript, além de conhecimentos em redes e desenvolvimento de software. Estou animado para embarcar em uma carreira na engenharia da computação e estou aberto a desafios que me permitam aprender e crescer.***
+- ***Sou estudante de Engenharia da Computação e atuo profissionalmente com desenvolvimento de software, utilizando Java no desenvolvimento e na manutenção de aplicações. Tenho interesse em aprimorar continuamente minhas habilidades técnicas, aprofundar meus conhecimentos em arquitetura de software, bancos de dados e desenvolvimento backend, além de explorar novas tecnologias. Sou dedicado, curioso e gosto de enfrentar desafios que contribuam para meu crescimento profissional. Busco evoluir constantemente como desenvolvedor, contribuindo para a construção de soluções eficientes, organizadas e de qualidade.***
+
 </div>
