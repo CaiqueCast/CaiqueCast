@@ -6,7 +6,7 @@
 
 <img align="right" alt="minha imagem" width="250" src="https://i.imgur.com/8MupZHY.gif" />
 
-☕ Trabalho com Java no desenvolvimento e na manutenção de aplicações na [HLH – Serviços e Tecnologia](https://hlh.com.br/site2/).
+☕ Trabalho como Desenvolvedor Java Web na [HLH – Serviços e Tecnologia](https://hlh.com.br/site2/).
 
 🎓 Estudei Desenvolvimento de Software com Foco em Back-End pela [Cubos Academy](https://cubos.academy/).
 
